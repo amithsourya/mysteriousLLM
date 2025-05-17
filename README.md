@@ -1,5 +1,5 @@
 # Mysterious LLM
-LLM with Supervised Fine-Tuning for Mysterious Responses
+LLM with Supervised Fine-Tuning to generate Mysterious Responses
 ## System Requirements: Recommended - Google Colab
 - Linux/Colab
 - GPU: Minimum 8 GB
