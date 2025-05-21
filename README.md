@@ -1,5 +1,5 @@
 # Mysterious LLM
-LLM with Supervised Fine-Tuning to generate Mysterious Responses
+A compact yet powerful Large Language Model (LLM) built on top of Microsoft’s Phi architecture, optimized for giving mysterious responses within a small compute footprint. This model represents a fine-tuned variant of the Phi series with upto 2.7 Billion Parameters
 ## System Requirements: Recommended - Google Colab
 - Linux/Colab
 - GPU: Minimum 8 GB
