@@ -10,7 +10,7 @@ A compact yet powerful Large Language Model (LLM) built on top of Microsoft’s 
 ### Model Sources
 
 <!-- Provide the basic links for the model. -->
-- **Repo:**: https://github.com/amithsourya/mysteriousLLM/blob/main/content/entity_lora_adapter/adapter_model.safetensors
+- **Repo:** https://github.com/amithsourya/mysteriousLLM/blob/main/content/entity_lora_adapter/adapter_model.safetensors
 - **Demo:**
 ```python
 from transformers import AutoModelForCausalLM, AutoTokenizer, pipeline
